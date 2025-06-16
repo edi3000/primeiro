@@ -1,0 +1,9 @@
+body {background-color: rgb(68, 84, 75);}     
+h1 {color: rgb(13, 227, 145); font-size:2em; text-align:center;}
+p  {color: rgb(208, 224, 220); font-size: 2em; ;}
+li {padding : 0.8em; font-size:large;}
+img {border : solid 0.2em }
+table {border :solid 0.3em; background-color: rgb(180, 228, 165); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} 
+
+a {color: rgb(18, 2, 2);}
+a:hover {color: rgb(255, 0, 0);} 
